@@ -1,1 +1,3 @@
-# ziraat-bankasi-html-css
+# Ziraat Bankası Clone
+Projem Ziraat Bankasının clone web sitesidir.
+HTML ve CSS teknolojileri kullanılarak tasarlanmıştır.
